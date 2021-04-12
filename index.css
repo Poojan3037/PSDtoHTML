@@ -392,3 +392,111 @@ form{
         height: auto;
     }
 }
+
+
+
+
+
+
+
+/* Tablet RESPONSIVE */
+
+@media screen and (max-width:1024px) and (min-width:768px){
+    
+    /* <!-- HEADER START --> */
+        .header{
+            height: auto;
+            padding: 10px;
+        }
+    
+    
+        .header-box{
+            height: auto;
+        }
+    
+        .header-form{
+            width: 90vw;
+            
+        }
+    
+    
+        /* <!---FEATURES START --> */
+    
+        .features{
+            height: auto;
+            padding: 10px;
+            overflow: hidden;
+        }
+    
+        .feauters-box{
+            height: auto;
+        }
+    
+        .features-content{
+            height: auto;
+            margin-left: 15px;
+        }
+    
+    
+    
+    
+    
+    
+        /* <!---FEATURES-2 START --> */
+        .feature2{
+            height: auto;
+        }
+    
+        .feature2-box{
+            height: auto;
+        }
+    
+        .feature2-img{
+            width: 100%;
+        }
+    
+    
+    
+    
+    
+        /* <!---PRICING START --> */
+        .pricing{
+            height: auto;
+        }
+    
+        .pricing-box{
+            height: auto;
+        }
+    
+        .pricing-form{
+            margin-top: 60px;
+        }
+    
+        .pricing-form1{
+            margin-top: 60px;
+        }
+        .special-price{
+            height: 60px;
+        }
+    
+    
+    
+    
+        /* /* <!---FOOTERSTART --> */ */
+        .footer{
+            height: auto;
+        }
+    
+    
+        .footer-box{
+            height: auto;
+        }
+    
+    
+    
+        /* SOCIAL START */
+    
+        .social{
+            height: auto;
+        }
+    }
